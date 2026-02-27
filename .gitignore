@@ -1,6 +1,4 @@
 /.env
 /.vscode
-/check_versions.py
-/PROJECT_WALKTHROUGH.md
 /venv
 /__pycache__
